@@ -1,0 +1,6 @@
+framework module Pods_ReactiveCocoaObjectiveC {
+  umbrella header "Pods-ReactiveCocoaObjectiveC-umbrella.h"
+
+  export *
+  module * { export * }
+}
